@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-This is my jekyll blog.
+This is my website, for random blog posts, and my projects.
