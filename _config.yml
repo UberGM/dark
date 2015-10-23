@@ -1,11 +1,11 @@
-title: "Dark"
-description: none
+title: "ubergm"
+description: "A place for my projects"
 baseurl: ""
-url: "googre.ml"
+url: "ubergm.ml"
 
-email: email@email.com
-twitter_username: tweeter
-github_username: gethub
+email: ryanbeltzbackup@gmail.com
+github_username: ubergm
 
 markdown: kramdown
 includeFooter: true
+highligher: pygments
