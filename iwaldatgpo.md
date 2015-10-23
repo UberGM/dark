@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /archive/iwaldatgpo
+permalink: /archive/iwaldatgpo/
 ---
 #iwaldatgpo
 ##stolen from [maxell](http://maxell.ml)
