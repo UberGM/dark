@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <div class="home">
   <main class="post-list">
     {% for post in site.posts limit:5 %}
