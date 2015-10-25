@@ -3,18 +3,17 @@ layout: default
 ---
 <div class="home">
   <main class="post-list">
-    {% for post in site.posts %}
     <div class="post">
       <div class="wrapper">
-        Welcome to my website. I'm Ryan Beltz, also known as "UberGM" on the internet. This is just my blog and such
+        Welcome to my website. I'm Ryan Beltz, also known as "UberGM" on the internet. This is just a website for my projects
+        <h3>Blog</h3>
         <ul>
           {% for post in site.posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
           {% endfor %}
         </ul>
-       </div>
+      </div>
     </div>
-    {% endfor %}
   </main>
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 </div>
