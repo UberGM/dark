@@ -6,7 +6,7 @@ layout: default
     <div class="post">
       <div class="wrapper">
         Welcome to my website. I'm Ryan Beltz, also known as "UberGM" on the internet. This is just a website for my projects
-        <h2>Blog</h2>
+        <h1>Blog</h1>
         <ul>
           {% for post in site.posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
