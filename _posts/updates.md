@@ -1,0 +1,14 @@
+---
+layout: post
+title: Updates to the site
+date: 2015-10-25 10:10:10
+tags: posts
+---
+I've made a few updates to the site
+
+Well, more than a few. Mainly just a bunch of added pages. I've added: Archive, projects, about, and a link to an old pastehtml
+clone I made. I'll start working on actual projects to upload to this site. I'll probably put things like: games, soundboards,
+and other fun stuff. If anyone would like to submit something to the archive, I'll read over it. Just send me and email with the
+topic: "UberGM Archive Suggestion" and I'll take a look at it. My email can be found in the footer, if you weren't aware.
+
+That's really it for now.
