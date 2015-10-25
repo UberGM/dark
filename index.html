@@ -6,6 +6,12 @@ layout: default
     <div class="post">
       <div class="wrapper">
         <h1>Recent Blog Posts</h1>
+        <p>
+          Hello.
+          Welcome to my website.
+          I'm UberGM, sometimes known as ubre, or uber.
+          Here you can find my projects, and other random stuff.
+        </p>
         <ul>
           {% for post in site.posts limit:5 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
